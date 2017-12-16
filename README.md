@@ -10,13 +10,13 @@
 `npm install`
 
 ###### Run the node server
-`npm start`
+`npm start ` or `nodemon` (if you have)
 
 ###### Start the webpack file watcher
 `npm run watch`
 
 ###### Viewing the application in your browser
-`http://localhost:8000`
+`http://localhost:8080`
 
 
 # Overview
